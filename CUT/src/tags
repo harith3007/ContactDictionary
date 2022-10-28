@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+List_all_business_contacts	listbusiness.c	/^void List_all_business_contacts()$/;"	f
+List_all_personal_contacts	listpersonal.c	/^void List_all_personal_contacts()$/;"	f
+add_new_contact	addcontact.c	/^void add_new_contact()$/;"	f
+admin	admin.c	/^int admin()$/;"	f
+admin_menu	admin_menu.c	/^void admin_menu()$/;"	f
+clear	clear.c	/^void clear()$/;"	f
+delete_business	delbusiness.c	/^void delete_business( )$/;"	f
+delete_personal	delpersonal.c	/^void delete_personal( )$/;"	f
+display_contact_options	display.c	/^void display_contact_options()$/;"	f
+main	main.c	/^int main()$/;"	f
+options	options.c	/^void options()$/;"	f
+pass_reset	passreset.c	/^int pass_reset()$/;"	f
+update_business	updatebusiness.c	/^void update_business()$/;"	f
+update_personal	updatepersonal.c	/^void update_personal()$/;"	f
+user_login	user_login.c	/^int user_login()$/;"	f
+user_menu	user_menu.c	/^void user_menu()$/;"	f
+user_reg	user_reg.c	/^int user_reg()$/;"	f
+val_emailid	validations.c	/^int val_emailid(char *emailid)$/;"	f
+val_emergencycontact	validations.c	/^int val_emergencycontact(char *emergency)$/;"	f
+val_mobileno	validations.c	/^int val_mobileno(char *mobileno)$/;"	f
+val_name	validations.c	/^int val_name(char *name)$/;"	f
